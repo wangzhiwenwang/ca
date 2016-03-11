@@ -68,7 +68,6 @@ class LocationController extends Controller
             return $this->render('create', [
                 'model' => $model,
             ]);
-            //aaa
         }
     }
 
